@@ -1,0 +1,5 @@
+deployments:
+  default:
+    vm_size: 2G
+    vm_storage_gb: 25
+    ready_wait: 120
